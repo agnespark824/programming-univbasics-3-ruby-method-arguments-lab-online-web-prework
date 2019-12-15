@@ -1,4 +1,3 @@
-name = Agnes
 def introduction
   put "Hi, my name is #{name}."
 end
